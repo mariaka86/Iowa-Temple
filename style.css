@@ -8,6 +8,13 @@ background-image: url('https://static.vecteezy.com/system/resources/previews/007
 background-size:cover;
 font-family: "Arial", Times, serif;
 }
+button{
+  background-color: pink;
+  color:white;
+  font-size: 20px;
+  border-radius: 12px;
+}
+
 
 div{
     float:left;
@@ -69,7 +76,6 @@ footer {
 background-color: pink;
   width: 40%;
   height:50%;
-  font-color:black;
   font-size: 10px;
 }
 
@@ -99,5 +105,5 @@ a:hover {
 
 /* selected link */
 a:active {
-  color: blue;
+  color:whitesmoke;
 }
